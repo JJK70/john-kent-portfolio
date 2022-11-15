@@ -20,7 +20,7 @@ function About() {
             <div className="d-grid gap-2 d-md-flex justify-content-md-center mt-3">
               <button type="button" className="btn proj-btn-l btn-lg justify-content-md-end me-lg-5 me-sm-0 ms-lg-5 ml-sm-0"><a className="p-link" href="https://github.com/JJK70">GitHub</a></button>
               <button type="button" className="btn proj-btn-r btn-lg me-lg-5 me-sm-0"><a className="p-link-2" href="mailto:jjk701@gmail.com?subject=Let's Chat">Contact</a></button>
-              <button type="button" className="btn proj-btn-l btn-lg justify-content-md-end me-lg-5 me-sm-0"><a className="p-link" href="https://github.com/JJK70">Resume</a></button>
+              <button type="button" className="btn proj-btn-l btn-lg justify-content-md-end me-lg-5 me-sm-0"><a className="p-link" href="JohnJKent_Resume.pdf">Resume</a></button>
               </div>
           </div>
         </div>

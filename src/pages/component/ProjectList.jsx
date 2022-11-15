@@ -15,7 +15,7 @@ const ProjectList = () => {
               <p class="card-text">The Peeking Dogs DayCare is an app designed to allow you to enter your dogs information(name, breed and age.). Track feeding time including breakfast, lunch and dinner.</p>
               <div class="d-grid gap-2 d-md-flex justify-content-md-center">
               <button type="button" class="btn proj-btn-l btn-lg justify-content-md-end me-lg-5 me-sm-0"><a class="p-link" href="https://github.com/JJK70/doggies-daycare">GitHub</a></button>
-              <button type="button" class="btn proj-btn-r btn-lg"><a class="p-link-2" href="https://github.com/LedioDylgjeri/Food-Runner-Frontx">Website</a></button>
+              <button type="button" class="btn proj-btn-r btn-lg"><a class="p-link-2" href="https://doggies-daycare.herokuapp.com/">Website</a></button>
               </div>
             </div>
           </div>
@@ -28,7 +28,7 @@ const ProjectList = () => {
               <p class="card-text">A food ordering solution for your Food Truck/Cart business brought to you by Food Runners. If you have a small kitchen crew and long customer lines, this is the app for you!</p>
               <div class="d-grid gap-2 d-md-flex justify-content-md-center">
               <button type="button" class="btn proj-btn-l btn-lg justify-content-md-end me-lg-5 me-sm-0"><a class="p-link" href="https://github.com/LedioDylgjeri/Food-Runner-Front">GitHub</a></button>
-              <button type="button" class="btn proj-btn-r btn-lg"><a class="p-link-2" href="https://github.com/LedioDylgjeri/Food-Runner-Front">Website</a></button>
+              <button type="button" class="btn proj-btn-r btn-lg"><a class="p-link-2" href="https://food-runners.netlify.app/">Website</a></button>
               </div>
             </div>
           </div>
