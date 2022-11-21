@@ -19,6 +19,12 @@ p {
   font-weight: bold;
 }
 
+.proj {
+  color: lightgray;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
 .a-title {
   color: gray;
   font-weight: bold;
@@ -107,7 +113,12 @@ h1 {
 
 h2 {
   color: lightgray;
-  font-size: 25px;
+  font-size: 18px;
+}
+
+.intro {
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 .hp-img {
@@ -141,6 +152,7 @@ li {
 .copy {
   color: lightgray;
   margin-top: 50px;
+  font-size: 14px;
 }
 
 .nav-left {

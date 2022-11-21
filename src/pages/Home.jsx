@@ -4,7 +4,10 @@ function Home() {
       <>
       <div className="container mb-5">
       <h1 className="text-center mt-5 mb-3">John J. Kent Portfolio</h1>
-      <h2 className="text-center mt-2 mb-5">Hello and welcome to my portfolio. Click on the images below to see my projects.</h2>
+      <div className="intro">
+        <h2 className="text-center mt-3 mb-5">I'm a Software Engineer and Financial Services professional with experience in all facets of website/content management and strategy. I have worked on multiple website redesigns and other large scale projects in an Agile environment. I bring a collaborative mindset to all of the projects I work on and believe that teamwork makes for better end results.</h2>
+        <p className="proj">Click on the images below to see a list of my most recent projects.</p>
+      </div>
       <div className="hp-img text-justify-center mb-5">
       <div id="carouselExampleFade" className="carousel slide carousel-fade" data-bs-ride="carousel">
         <div className="carousel-inner">
