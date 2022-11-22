@@ -147,7 +147,8 @@ h2 {
 }
 
 .i-text {
-  color: #28282B;
+  color: #000;
+  opacity: .7;
 }
 
 .languages {
