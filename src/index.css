@@ -28,6 +28,7 @@ p {
 .l-icon {
   width: 50px;
   color: #29335C;
+  opacity: 0.6;
 }
 
 .a-title {
@@ -145,17 +146,16 @@ h2 {
   color: lightgray;
 }
 
+.i-text {
+  color: #232b2b;
+}
+
 .languages {
   background-color: #E89880;  
   color: #29335C;
   border-radius: 10px;
-  border: 1px solid gray;
+  border: 1px solid lightgray;
   padding: 10px 0 10px 0;
-}
-
-li {
-  color: #29335C;
-  font-weight: bold;
 }
 
 .copy {
