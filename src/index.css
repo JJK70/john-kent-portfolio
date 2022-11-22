@@ -25,6 +25,11 @@ p {
   margin-bottom: 25px;
 }
 
+.l-icon {
+  width: 50px;
+  color: #29335C;
+}
+
 .a-title {
   color: gray;
   font-weight: bold;
@@ -91,7 +96,6 @@ p {
   color: #29335C;
 }
 
-
 .profile-pic {
   max-width: 200px;
   /* height: 210px; */
@@ -134,14 +138,19 @@ h2 {
 }
 
 .a-title {
-  color: #29335C;
-  font-weight: bold;
+  color: gray;
+}
+
+.l-title {
+  color: lightgray;
 }
 
 .languages {
-  background-color: #E89880;
+  background-color: #E89880;  
   color: #29335C;
+  border-radius: 10px;
   border: 1px solid gray;
+  padding: 10px 0 10px 0;
 }
 
 li {
