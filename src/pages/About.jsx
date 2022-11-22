@@ -25,44 +25,44 @@ function About() {
           </div>
         </div>
       </div>
-  <h4 class="card-title l-title mt-4 mb-4">Languages</h4>
-  <div class="card-body languages">
-  <div class="container text-center">
-  <div class="row align-items-start mb-5">
-    <div class="col">
-    <img class ="l-icon"src="html5.svg" alt="HTML Icon" /><p class="i-text mt-1">HTML5</p>
-    </div>
-    <div class="col">
-      <img class ="l-icon" src="css3.svg" alt="CSS Icon" /><p class="i-text">CSS3</p>
-    </div>
-    <div class="col">
-     <img class ="l-icon" src="bootstrap.svg" alt="Bootstrap Icon" /><p class="i-text">Bootstrap</p>
-    </div>
-    <div class="col">
-      <img class ="l-icon" src="java-script.svg" alt="Javascript Icon" /><p class="i-text">Javascript</p>
-    </div>
-    <div class="col">
-      <img class ="l-icon" src="github.svg" alt="GitHub Icon" /><p class="i-text">GitHub</p>
-    </div>
-  </div>
-  <div class="row align-items-center">
-    <div class="col">
-      <img class ="l-icon mt-1" src="react.svg" alt="React Icon" /><p class="i-text mt-1">React</p>
-    </div>
-    <div class="col">
-      <img class ="l-icon" src="django.svg" alt="Django Icon" /><p class="i-text">Django</p>
-    </div>
-    <div class="col">
-      <img class ="l-icon" src="mongodb.svg" alt="MongoDB Icon" /><p class="i-text">MongoDB</p>
-    </div>
-    <div class="col">
-     <img class ="l-icon" src="python.svg" alt="Python Icon" /><p class="i-text">Python</p>
-    </div>
-    <div class="col">
-      <img class ="l-icon" src="docker.svg" alt="Docker Icon" /><p class="i-text">Docker</p>
-    </div>
-  </div>
-</div>
+        <h4 class="card-title l-title mt-4 mb-4">Languages</h4>
+      <div class="card-body languages">
+        <div class="container text-center">
+        <div class="row align-items-start mb-2 pt-3">
+          <div class="col">
+          <img class ="l-icon"src="html5.svg" alt="HTML Icon" /><p class="i-text mt-1">HTML5</p>
+          </div>
+          <div class="col">
+            <img class ="l-icon" src="css3.svg" alt="CSS Icon" /><p class="i-text">CSS3</p>
+          </div>
+          <div class="col">
+          <img class ="l-icon" src="bootstrap.svg" alt="Bootstrap Icon" /><p class="i-text">Bootstrap</p>
+          </div>
+          <div class="col">
+            <img class ="l-icon" src="java-script.svg" alt="Javascript Icon" /><p class="i-text">Javascript</p>
+          </div>
+          <div class="col">
+            <img class ="l-icon" src="github.svg" alt="GitHub Icon" /><p class="i-text">GitHub</p>
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col">
+            <img class ="l-icon mt-1" src="react.svg" alt="React Icon" /><p class="i-text mt-1">React</p>
+          </div>
+          <div class="col">
+            <img class ="l-icon" src="django.svg" alt="Django Icon" /><p class="i-text">Django</p>
+          </div>
+          <div class="col">
+            <img class ="l-icon" src="mongodb.svg" alt="MongoDB Icon" /><p class="i-text">MongoDB</p>
+          </div>
+          <div class="col">
+          <img class ="l-icon" src="python.svg" alt="Python Icon" /><p class="i-text">Python</p>
+          </div>
+          <div class="col">
+            <img class ="l-icon" src="docker.svg" alt="Docker Icon" /><p class="i-text">Docker</p>
+          </div>
+        </div>
+      </div>
   </div>
 </div>  
     </>
