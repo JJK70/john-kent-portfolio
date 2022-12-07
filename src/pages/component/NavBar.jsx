@@ -10,10 +10,10 @@ function Nav() {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
-    <span className="navbar-text">
-      <h1 className="me-lg-5 me-md-0 nav-left">John J. Kent Portfolio</h1>
-      </span>
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+      <li className="nav-item">
+          <a className="nav-link ms-lg-5 ms-md-0 me-lg-5 me-md-0" aria-current="page" href="/">Home</a>
+        </li>
         <li className="nav-item">
           <a className="nav-link ms-lg-5 ms-md-0 me-lg-5 me-md-0" aria-current="page" href="/projects">Projects</a>
         </li>
